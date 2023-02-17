@@ -3,8 +3,6 @@
 <a href="http://wa.me/+595983450187" target="blank"><img src="https://img.shields.io/badge/Peka-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
-### `—◉ 🖍 LETRA DEL BOT 🖍`
-- PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
